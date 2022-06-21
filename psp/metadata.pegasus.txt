@@ -1,0 +1,4 @@
+collection: Playstation Portable
+shortname: PSP
+extensions: iso, cso
+launch: /Applications/PPSSPPDL.app {file.path} 
