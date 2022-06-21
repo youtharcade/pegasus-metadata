@@ -3,7 +3,7 @@
 ## Metadata Start
 The first piece of information the metadata needs is the Collection/Launch data
 
-### Collection Information
+## Collection Information
 
 ```
 Collection: Playstation 2
@@ -11,7 +11,7 @@ Shortname: PS2
 Extensions: iso
 Launch: /Applications/PCSX2-v1.7.2952.app {file.path} 
 ```
-#### Console Info
+### Console Info
 
 ##### Collection
 Collection: `Playstation 2`  
@@ -29,7 +29,7 @@ Here you put in what extensions Pegasus should look for. In this case it's iso f
 Launch: `/Applications/PCSX2-v1.7.2952.app`  
 This is the path of the app itself, afterwards you can add any type of argument for the emulator in question. Since I'm running the QT version of PCSX2, I could use an argument like `-fullscreen` to have the app launch in full screen mode. You'll need to check the emulators Command Line arguments to know what to put here. `{file.path}` This tells the emulator the filepath of the rom in question.
 
-### Game Data
+## Game Data
 The next part is how you push your games information to the launcher itself
 
 ```
