@@ -3,6 +3,8 @@ My Pegasus Metadata information
 
 > This will be used to store my Pegasus Metadata files as backup. I'm sure others will appreciate seeing how to set it up. 
 
+![maintained](https://img.shields.io/maintenance/yes/2022)
+
 ## Setup
 >- MacBook Pro 13-inch M1 2020
 >- 16GB RAM 
