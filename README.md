@@ -5,6 +5,8 @@ My Pegasus Metadata information
 
 ![maintained](https://img.shields.io/maintenance/yes/2022)
 ![last-update](https://img.shields.io/github/last-commit/youtharcade/pegasus-metadata)
+![size](https://img.shields.io/github/repo-size/youtharcade/pegasus-metadata)
+![games](https://img.shields.io/badge/Games%20Played-∞-green)
 
 ## Setup
 > MacBook Pro 13-inch M1 2020  
@@ -21,6 +23,7 @@ My Pegasus Metadata information
 
 ## Meta
 
-YouthArcade – [@youtharcade](https://twitter.com/youtharcade)
+YouthArcade – [@youtharcade](https://twitter.com/youtharcade)  
+![follow](https://img.shields.io/github/followers/youtharcade?style=social)
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
