@@ -1,0 +1,45 @@
+// This is the main collection area, this is where you'll denote what console, rom extension, and emulator to use
+// You can add as many extensions as you want by adding a comma but keep in mind the emulator has to support it
+// When you launch the emulator - you can add arguments, but they have to go between the application and file path
+collection: Playstation 2
+shortname: PS2
+extensions: iso
+launch: /Applications/PCSX2-v1.7.2952.app {file.path} 
+
+// This is where you add your games - Pegasus will find every game within the folder, however there will be no metadata.
+// There's many different ways to get the metadata, I'm coding it by hand for the practice. You can use a scraper if you'd like.
+// For more information on that aspect, you'll need to hit up the Pegasus website: https://pegasus-frontend.org/docs/user-guide/meta-assets/
+// game name
+game: Dark Cloud
+// rom file name
+file: Dark Cloud.iso 
+// Developer name
+developer: Level-5 
+// Box front asset - the easiest way to do this is to create an asset folder in your PS2 rom folder
+assets.box_front: assets/covers/dark cloud.jpg 
+// Logo asset - some themes use this information
+assets.logo: assets/logos/ 
+
+game: Dark Cloud 2
+file: Dark Cloud 2.iso
+developer: Level-5
+assets.box_front: assets/covers/Dark Cloud 2.jpg
+assets.logo: assets/logos/
+
+game: Chaos Legion
+file: Chaos Legion.iso
+developer: Capcom
+assets.box_front: assets/covers/Chaos Legion.jpg
+assets.logo: assets/logos/
+
+game: Digital Devil Saga
+file: Digital Devil Saga.iso
+developer: Atlus
+assets.box_front: assets/covers/Digital Devil Saga.jpg
+assets.logo: assets/logos/
+
+game: Digital Devil Saga 2
+file: Digital Devil Saga 2.iso
+developer: Atlus
+assets.box_front: assets/covers/Digital Devil Saga 2.jpg
+assets.logo: assets/logos/
