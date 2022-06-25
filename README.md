@@ -7,6 +7,7 @@ My Pegasus Metadata information
 ![last-update](https://img.shields.io/github/last-commit/youtharcade/pegasus-metadata)
 ![size](https://img.shields.io/github/repo-size/youtharcade/pegasus-metadata)
 ![games](https://img.shields.io/badge/Games%20Played-∞-green)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O6DG4SX)
 
 # Setup
 
